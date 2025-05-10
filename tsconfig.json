@@ -1,3 +1,4 @@
+// This is the configuration file for TypeScript in a Next.js project.
 {
   "compilerOptions": {
     "target": "ES2017",
